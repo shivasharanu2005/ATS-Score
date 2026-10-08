@@ -1,0 +1,6 @@
+{
+  "name": "AI ATS — Smart Resume Screening & Candidate Ranking System",
+  "description": "Production-grade AI-powered ATS resume screening, explainable scoring, skills matching, and candidate ranking platform for recruiters and HR teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
